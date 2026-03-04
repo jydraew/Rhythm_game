@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/game/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLFW_DLL -external:ID:\\game\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\MyApp.dir\\main.cpp.obj /FdCMakeFiles\\MyApp.dir\\ /FS -c D:\\game\\main.cpp",
+  "file": "D:/game/main.cpp",
+  "output": "D:/game/build/CMakeFiles/MyApp.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/game/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLFW_DLL -external:ID:\\game\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\MyApp.dir\\MenuScene.cpp.obj /FdCMakeFiles\\MyApp.dir\\ /FS -c D:\\game\\MenuScene.cpp",
+  "file": "D:/game/MenuScene.cpp",
+  "output": "D:/game/build/CMakeFiles/MyApp.dir/MenuScene.cpp.obj"
+},
+{
+  "directory": "D:/game/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLFW_DLL -external:ID:\\game\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\MyApp.dir\\GameScene.cpp.obj /FdCMakeFiles\\MyApp.dir\\ /FS -c D:\\game\\GameScene.cpp",
+  "file": "D:/game/GameScene.cpp",
+  "output": "D:/game/build/CMakeFiles/MyApp.dir/GameScene.cpp.obj"
+}
+]
