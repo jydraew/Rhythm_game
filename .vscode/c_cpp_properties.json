@@ -3,7 +3,8 @@
         {
             "name": "windows-gcc-x64",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:\\game\\vcpkg\\installed\\x64-windows\\include"
             ],
             "compilerPath": "C:\\msys64\\mingw64\\bin/g++.exe",
             "cStandard": "${default}",

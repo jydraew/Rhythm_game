@@ -1,0 +1,10 @@
+^D:\GAME\BUILD\CMAKEFILES\FDCA4F8A57C03644F6391F0D25B03F81\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/game -BD:/game/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/game/build/ImGuiDemo.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

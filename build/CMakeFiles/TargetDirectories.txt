@@ -1,0 +1,3 @@
+D:/game/build/CMakeFiles/MyApp.dir
+D:/game/build/CMakeFiles/ALL_BUILD.dir
+D:/game/build/CMakeFiles/ZERO_CHECK.dir
